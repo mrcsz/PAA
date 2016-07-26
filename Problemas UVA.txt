@@ -1,0 +1,4 @@
+UVA 10611 - The Playboy Chimp
+UVA 11057 - Exact Sum
+UVA 12032 - The Monkey and the Oiled Bamboo
+UVA 11935 - Through the Desert
